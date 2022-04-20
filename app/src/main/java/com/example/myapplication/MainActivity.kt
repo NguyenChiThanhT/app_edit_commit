@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun gitApp(){
-        
+        val a = "1"
     }
 }
