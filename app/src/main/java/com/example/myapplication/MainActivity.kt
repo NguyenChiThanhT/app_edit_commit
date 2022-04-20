@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     private fun gitApp(){
         val a = "1"
         val b = "2"
-//        val c = "3"
+        val c = "3"
 //        val f = 4
 //        val r = 5
 //        val n = 6
